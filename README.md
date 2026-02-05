@@ -1,4 +1,4 @@
-### ImmortalWrt Extroot 扩容脚本
+### ImmortalWrt / OpenWrt Overlay 扩容脚本
 
 这是一个面向 **ImmortalWrt / OpenWrt 系列系统**的、**务实且以安全为优先**的 extroot 自动化脚本。
 
@@ -208,7 +208,7 @@ MIT License
 
 ---
 
-# ImmortalWrt Extroot Setup Script
+# ImmortalWrt / OpenWrt Overlay Expander Script
 
 A pragmatic, safety-oriented extroot setup script for **ImmortalWrt / OpenWrt-based systems**.
 
